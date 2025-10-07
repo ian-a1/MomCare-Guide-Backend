@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 
 // Database configuration
 class Database {
-    private $host = 'localhost';
+    private $host = 'https://momcare-guide-backend.onrender.com';
     private $db_name = 'momcare_app';
     private $username = 'root';
     private $password = '';
