@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MomCare Guide",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "momcare-guide-backend.onrender",
+  "start_url": "/landing.html",
+  "theme_color": "#ffffff"
+}
